@@ -1,4 +1,2 @@
-language: node
-script: 
-- npm install
-- node app.js
+language: node_js
+script: node app.js
