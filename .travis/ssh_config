@@ -7,3 +7,4 @@ Compression yes
 ServerAliveInterval 60
 ServerAliveCountMax 20
 LogLevel INFO
+StrictHostKeyChecking no
